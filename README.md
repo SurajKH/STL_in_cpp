@@ -3,6 +3,6 @@ Standard Template Library in Cpp
 
 Vector,Map,MultiMap,Stack
 
-list,Set,MultiSet,Pair
+list,Set,MultiSet,Pair,BitSet
 
-Queue,Priority Queue
+Queue,Priority Queue,Deque
