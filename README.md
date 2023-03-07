@@ -1,5 +1,4 @@
-# STL_in_cpp
-Standard Template Library in Cpp
+# Standard Template Library in cpp
 
 Vector,Map,MultiMap,Stack
 
